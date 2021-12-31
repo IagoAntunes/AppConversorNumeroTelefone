@@ -6,13 +6,13 @@ using Xamarin.Forms;
 
 namespace ConversorNumCell
 {
-    public class MainPage : ContentPage
+    public class AntigoMainPage : ContentPage
     {
         Entry numeroCelular;
         String numeroConvertido;
         Button ButtonConverter;
         Button ButtonLigar;
-        public MainPage()
+        public AntigoMainPage()
         {
             //---------------------------------------------------------------------------------------------------------
             //Declarando Interface
